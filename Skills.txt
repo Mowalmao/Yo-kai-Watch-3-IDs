@@ -1,0 +1,2498 @@
+SkillConfigID;Name
+77BA57BC;Punch
+CDEB5E25;Power Punch
+5BDB5952;Practiced Punch
+6E7E3ABB;One-Two Punch
+D42F3322;Meteor Punch
+421F3455;Kick
+D3028B45;Flip Kick
+45328CB2;Nasty Kick
+A0BB4B52;Slap
+368B4CA5;Smack Down
+1AEA424B;Pesky Poke
+B97F2655;Pointy Pokes
+2F4F21A2;Stab Storm
+951E283B;Bite
+032E2F4C;Chomp
+9233905C;Maul
+040397AB;Squish
+63E86609;Flatten
+F5D8618E;Steamroll
+4F896817;Headsmack
+D9B96F60;Headbutt
+7A2C0B02;Earthsplitter
+EC1C0C89;Body Bash
+564D0510;Tackle
+C07D0267;Bone Crusher
+C750BA80;Tail Slap
+22D97D20;Batter
+0EB8730E;Pinpoint Pierce
+98887479;Ventilator
+AD2D1790;Fullswing
+177C1E09;Headbuster
+814C197E;Shoot
+1051A62E;Guns Blazing
+737F3B58;Sharp Claws
+5F1E3536;Stepping Slice
+FC8B51A8;Double Slice
+6ABB565F;Lightning Slash
+D0EA5F46;Hit
+46DA5831;Beat
+D7C7E7A1;Clobber
+41F7E056;Ninja Star
+A47E27B6;Rocket Punch
+324E2041;Palm Strike
+881F2958;Spraygun
+1E2F2E2F;Bowshot
+BDBA4AB1;Kaboom!
+2B8A4D46;Slurp
+91DB445F;Slice
+07EB4328;Throw
+96F6FCB8;Throw
+00C6FB4F;Card Throw
+672D0A9D;Shot
+F11D0D2A;Shot
+4B4C0473;Shot
+DD7C0304;Shot
+7EE9679A;Throw
+E8D9602D;Shoot
+52886974;Shot
+0C894E63;Unnamed
+84EDEC73;Pesky Poke
+F779F97F;Fire
+4D28F026;Blaze
+DB18F791;Incinerate
+788D930F;Torrent
+EEBD9478;Rapids
+54EC9D21;Waterfall
+C2DC9A96;Shock
+53C12506;Lightning
+C5F12271;Voltage
+2078E511;Pebble
+B648E266;Rockslide
+0C192B;Meteor
+9A29EC88;Hail
+39BC8816;Frost
+AF8C8F61;Blizzard
+15DD8608;Whirlwind
+83ED818F;Tornado
+12F03E1F;Storm
+84C03968;Absorb
+E32BC83A;Drain
+751BCF4D;Reaper
+CF4AC654;Heal
+597AC1A3;Restore
+FAEFA53D;Paradise
+A3FD5351;Careless
+4D52E643;Defenseless
+0C63FD5A;Gutsiness
+28355A0B;Full of Sighs
+910D8D66;Full of Sighs
+D03C967F;Demotivator
+F46A315E;Mochi Power
+B55B2A47;Jealousy
+1AC5844C;Aimless
+7FA23874;Laziness
+3E93236D;Laziness
+29B25B2C;Bad Bet
+4CD5E794;Fine Weapon
+76B38F54;Cursed Sword
+0DE4FC8D;Holy Sword
+13D4336C;Helmet Defense
+FD7B867E;Knight's Curse
+BC4A9D67;Stygian Curse
+981C3A46;Emblaze
+D92D215F;Lion's Pride
+1A7E0C14;Heart's Roar
+2124ED5B;Stag Power
+44435123;Fighter Power
+05724A0A;Legend Power
+AAECE411;Clumsiness
+EBDDFF28;Cyborg Strength
+CF8B5849;Berserk
+8EBA4350;Frighten
+999B3B11;Runny Nose
+D8AA2008;Catch Cold
+FCFC87A9;Expose Weakness
+BDCD9CB0;Mysterious Power
+A6C92F93;Memory Eater
+E7F8348A;Playfulness
+C3AE932B;Side Splitter
+829F8832;Shivers
+2D012639;Samurai Spirit
+6C303D20;Kabuki Fun
+48669A81;Popularize
+F15E4D1C;Popularize
+B06F5605;Unpopularize
+9439F1A4;Disclose
+7A9644B6;Disclose
+D508EABD;Face Paint
+1FF1F80E;Bedtime
+5EC0E317;Sweet Dreams
+49E19B56;Paralyze
+2C86272E;Paralyze
+6DB73C17;Electrocute
+16E04FAE;Mirror Power
+57D154B7;Cursed Mirror
+7387F316;Illusion Power
+32B6E80F;Haze Power
+F1E5C524;Wanderlust
+9D284604;Numbify
+F84FFABC;Numbify
+B97EE1A5;Curse of Darkness
+41772D21;Burn
+00463638;Divine Protection
+C3151B13;Dark Descent
+24109199;Dullness
+CABF248B;Machismo
+8B8E3F92;Musclehead
+AFD89833;Sore Throat
+EEE9832A;Headache
+F9C8FB6B;Maniac Makeover
+9CAF4753;So Generous
+DD9E5C4A;So Generous
+063C6F1C;Refusal
+635BD3A4;Refusal
+226AC8BD;Castle Power
+8DF466B6;Inflated Impediment
+CCC57DAF;Big Needle Poke
+E893DA0E;Armor Defense
+51AB0D93;Perseverance
+109A168A;Volcanic Blessing
+34CCB12B;Rhino Power
+DA630439;Peerless Power
+9B521F20;Legend Power
+FE35A398;Bronze Power
+3D668EB3;Silver Power
+BF04B881;Gold Power
+7C5795AA;Platinum Power
+E914DB59;Earth Healing
+A825C040;Ocean Power
+8C736761;Cicada Ninjutsu
+B6150F21;Cicada Ninjutsu
+F7241438;Radical Ninjutsu
+D372B399;Depression
+9243A880;Awkwardness
+511085AB;Despair
+3DDD068B;Slow Down
+B2E6D784;Slow Down S
+58BABA33;Needle Poke
+E1826DAE;Delinquency
+84E5D116;Steel Power
+C5D4CA0F;Golden Power
+6A4A6404;Diamond Power
+2B7B7F1D;Sapphire Power
+E8285236;Emerald Power
+A919492F;Ruby Power
+6E8F0860;Topaz Power
+0F2DD8BC;Nap Time
+593DBB24;Torrent Power
+180CA005;Surf Power
+3C5A075C;Burn
+666FAF66;Burn
+7D6B1C45;Tiger Power
+B361D653;Burn S
+F250CD4A;Tiger Power S
+E40D9954;Tiger Power
+0308135E;Generous Heart
+42390847;Faltering Heart
+EDA7A64C;Chills
+88C01A74;Freeze
+C9F1016D;Blazing Heart
+31F8CD29;Fidgeting
+70C9D610;Shaking
+549F7151;Luck's Smile
+15AE6A48;Lucky Streak
+BA30C443;Tengu Tailwind
+FB01DF5A;Burn
+DF57780B;Starve
+89471BA3;Starve
+9E666322;Rice's Kindness
+EC20A71B;Confusion
+D646CF5B;Confusion
+9777D442;Styx's Curse
+B3217323;Liven Up
+F210680A;Power of Song
+31434551;Serpent's Power
+5D8EC611;Energize
+1CBFDD28;Enemy Maker
+38E97A49;Feeling Fine
+79D86150;Life Is Good
+81D1AD54;Healthy Wakame
+C0E0B64D;Kombu Energy
+03B39B26;Slippery Mekabu
+E4B6116C;Skip a Beat
+0A19A47E;Skip a Beat
+4B28BF67;Trickery
+6F7E1846;Cheerfulness
+396E7B9E;Insecurity
+785F6087;Insecurity
+5C09C726;So Generous
+1D38DC3F;So Generous
+07D19F59;Mama's Warmth
+46E08440;Auntie's Love
+62B62361;Dad's Support
+23873878;Uncle's Shout
+8C199673;Shoulder Pain
+E97E2A4B;Shoulder Pain
+A84F3152;Back Pain
+5046FD56;Negativize
+3521412E;Negativize
+74105A17;Itchy
+DB8EF404;Guide
+9ABFEF25;Bias
+BEE94844;Snatch
+FFD8535D;Funky Dance
+E8F92B1C;All Talk
+A9C83005;Complaints
+359AC956;Blood Boil
+8D9E97A4;Rebel Soul
+B7F8FF24;Rebel Soul
+D29F435C;Negasus Waves
+93AE5845;Neighing Curse
+3C30F64E;Wrinkles
+59574A16;Youth Drain
+1866512F;Immortal Power
+E06F9D6B;Stink Up
+A15E8672;Stink Up
+85082153;Fall Flat
+C4393A4A;Fall Flat
+6BA79441;Sleeplessness
+2A968F58;Bedtime
+0EC02879;Fade Away
+58D04B21;Fade Away
+19E15038;Fade Away
+3DB7F799;Pruned
+68E87B6F;Pruned
+7C86EC80;Numbify
+29D96076;Frozen Solid
+BFD5C1AB;Nosebleed
+0D8FC757;Overcast
+E3207245;Envy
+A211695C;Gluttony
+8647CE7D;Shut Away
+3F7F1920;Shut Away
+7E4E0209;Shut Away
+1B29BE41;Optimism
+5A18A558;Poverty
+F5860B53;Stygian Curse
+B4B7104A;Pessimism
+D1D0AC12;Distrust
+90E1B72B;Bratty
+53B29A40;Contrariness
+87C0CFAA;Frighten
+E2A77312;Frighten
+A396680B;Cavity
+D8C11B52;Stinginess
+99F0004B;Darkness Power
+BDA6A72A;Fortunate
+53091208;Fortunate
+FC97BC13;Panda Cuteness
+366EAE40;Dragon Power
+8F56795D;Dragon Power
+CE676244;Cobalt Power
+EA31C565;Spiteful Suggestion
+049E7077;Harbor Resentment
+45AF6B6E;Frenzy
+61F9CC4F;Loitering
+20C8D756;Amateur
+76D8B48E;So Generous
+37E9AF97;Wastefulness
+528E132F;Keep Chatting
+13BF0836;Banana Power
+08BBBB15;Bossiness
+498AA00C;Pit Viper Venom
+8AD98D27;Sulky
+6DDC07AD;Venoct's Blessing
+2CED1CB4;Enshroud
+EFBE319F;Light of Life
+8373B2BF;Heart of a Warrior
+E6140E07;Burly Power
+5F2CD99A;Healing Air
+3A4B6522;Miracle Blossom
+D4E4D030;Power of Terror
+1181DE55;Unnamed
+4616BC5A;Unnamed
+9BCED628;Unnamed
+FEA96A90;Unnamed
+4F070B7A;Unnamed
+2A60B742;Unnamed
+9358605F;Unnamed
+7DF7D54D;Unnamed
+4E800AAD;Unnamed
+14B5A297;Unnamed
+9F7DAB3D;Unnamed
+FA1A1785;Unnamed
+26457CA0;Unnamed
+C1FB7E12;Unnamed
+2F54CB;Unnamed
+4BB4766F;Unnamed
+86B03C2F;Unnamed
+0D783585;Unnamed
+3E0FEA65;Unnamed
+610E3E9D;Unnamed
+8FA18B8F;Unnamed
+BD5155B8;Unnamed
+EB413620;Unnamed
+8E268A58;Unnamed
+D4132262;Unnamed
+B1749E5A;Unnamed
+3ABC9770;Unnamed
+084C4947;Unnamed
+6D2B15;Unnamed
+5E5C2A1F;Unnamed
+015DFE27;Unnamed
+EFF24B15;Unnamed
+33AD2050;Unnamed
+56CA9C68;Unnamed
+EE754A22;Unnamed
+D0CAAE65;Unnamed
+E23A7052;Unnamed
+3FE21AA0;Unnamed
+60E3CE58;Unnamed
+8E4C7B4A;Unnamed
+EB2BC712;Unnamed
+3774AC57;Unnamed
+D9DB1945;Unnamed
+E864285C;Unnamed
+06CB9D4E;Unnamed
+35BC42AE;Unnamed
+6ABD9656;Unnamed
+0FDA2A2E;Unnamed
+84122344;Unnamed
+D385414B;Unnamed
+85952293;Unnamed
+BAC73611;Unnamed
+DDF56790;Lionize
+335AD282;Freshen Up
+563D6E3A;Meltdown
+EF05B9A7;Power Snack
+8A62051F;Sick Lick
+61A0CE19;Sick Lick
+381E881B;Sick Lick
+64CDB00D;Pal Power
+EBF66102;Pal Power S
+01AA0CB5;Sucking Mud
+EA68C7B3;Sucking Mud
+B3D681B1;Unnamed
+57BA6F2D;Fighting Fit
+32DDD355;Spruce Up
+A84EFB9A;Lionize
+CD294722;Power Lunch
+2386F230;Fightamins
+62B7E929;Maulnutrition
+46E14E88;Tailwind
+FFD99915;Amazing Haze
+4DA51411;Unnamed
+9ABE25AD;Not So Sorry
+741190BF;Copycat
+11762C07;Lying Saucer
+47664F5F;Memory Loss
+2201F327;Amazing Haze
+C9C33821;Awful Haze
+907D7E23;Unnamed
+18679BA7;Hot Pot
+7D00271F;Not So Sorry
+93AF920D;Mirror Power
+F6C82EB5;Paralyze
+B7F935AC;Paralyze
+4FF0F928;Crack Up
+2A974590;Envy
+C438F082;Sweat it Out
+A15F4C3A;Lightning Speed
+F74F2F62;Get Lost
+9228935A;Shakedown
+C81D3B20;Shrimpervious
+AD7A8758;Loose Cannon
+43D5324A;Evil Eyes
+02E42953;Evil Eyes
+F1A9BF4E;Unnamed
+26B28E12;Beef Up
+9F8A596F;Lightning Speed
+FAEDE557;Thick Skin
+14425045;Big Shot
+55734B5C;Stay-at-Home
+7125EC7D;Losing Face
+C3596179;Unnamed
+27358F25;Eye-Eye
+95490221;Unnamed
+4252339D;Leg Up
+78345B5D;Hot Stepper
+1D53E765;Storm Drain
+F3FC5277;Freaky Face
+969BEE4F;Bedtime
+2FA33952;Kappa Quick
+6E92224B;Kappa Quick
+C461F254;Wicked Tale
+9DDFB456;Unnamed
+4AC4852A;Hose Be with You
+A46B3008;Lick Your Wounds
+C10C8C40;Undercover
+2ACE4746;Ruin
+73700144;Unnamed
+971CEF18;A-meh-zing
+F27B53A0;Battle Beat
+A9A30B5F;Raging Bull
+4261C059;Bad Fortune
+1BDF865B;Unnamed
+CCC4B727;Chin Up
+27067C21;Chin Down
+7EB83A23;Unnamed
+226B0215;Solar Power
+470CBE4D;Dance Party
+FE346950;Lick Your Wounds
+9B53D568;A-meh-zing
+75FC607A;Deep Cover
+109BDC42;Cheer up
+468BBF9A;Supoor Squanderer
+23EC0322;Raging Bull
+198A6B62;Rest Aura
+58BB707B;Healing Horn
+7CEDD75A;Bless My Sole
+CE915A5E;Unnamed
+92426248;Restless Night
+F725DE70;Bad Influence
+4E1D092D;Wilt
+2B7AB555;Hate to Wait
+C5D50047;Helpless
+A0B2BC;Spirit Zapper
+F6A2DFA7;Burn
+93C5631F;Prima Donna
+CD3B27A4;Dracufang
+A85C9B1C;Sleepless Night
+46F32E0E;Boil Away
+239492B6;Thatch
+C85659B0;Thatch
+91E81FB2;Unnamed
+9AAC452B;Doubt It
+FFCBF993;Big Up
+11644C81;Elementary Curse
+7403F039;Shirkster
+22139361;Tie Down
+47742F59;Sweaty Swine
+7D124799;Vroom Vroom
+1875FB21;Thicket
+AA097625;Unnamed
+F6DA4E33;High School Hex
+93BDF28B;Entrap
+D28CE992;Entrap
+2A852516;Rustic Charm
+4FE299AE;Pain in the Neck
+A14D2CBC;Two to Tangle
+C42A9004;Ba-Dum-Diss
+923AF35C;Happy Daze
+F75D4F24;Coast Guard
+AD68E75E;Bugged Out
+C80F5B66;Rejuvenate
+23CD9060;Gouge
+7A73D662;Unnamed
+26A0EE74;Neck Tie
+CD622572;Neck Tie
+94DC6370;Unnamed
+43C7524C;Maybe Later
+FAFF8551;Wigged Out
+9F983929;Happy Daze
+71378C0B;What a Drag
+14503043;Rejuvenate
+55612B5A;Legend Power
+4240531B;Megasize
+2727EFA3;Join the Dance
+1D418723;Info Dump
+78263B5B;Slurperpowers
+96898E49;Strange Power
+F3EE3211;Strange Power
+4AD6E56C;Strange Power
+2FB15954;Unfairy Power
+C11EEC46;Unkaind Power
+A479507E;Untidy Power
+F2693326;Unpleasant Power
+970E8F9E;Unkeen Power
+0D9DA751;Rat Fink
+68FA1B29;Stats n' Stripes
+8655AE0B;Curse of Darkness
+E3321243;Power of Friendship
+5A0AC55E;At Your Service
+3F6D7966;System Upgrade
+D1C2CC74;Girl Power
+B4A5704C;Tiger Power
+E2B51394;Power of Friendship
+87D2AF2C;Jet Propulsion
+BDB4C76C;Wanderlust
+531B727E;Dig Deep
+EA23A523;Moximous
+106C9E01;Get Your Goat
+FEC32B13;Get Your Goat
+9BA497AB;Bedtime
+229C4036;Festival Fun
+47FBFC8E;Panja Power
+A954499C;Panja Power
+CC33F524;Eelectrify
+9A23967C;Eelectrify
+FF442A44;Octoplus
+C5224284;Octoplus
+A045FE3C;Sanks So Much
+4EEA4B2E;Refusal
+2B8DF796;Suck It Up
+92B5200B;Suck It Up
+F7D29CB3;Could Care Less
+197D29A1;Could Care More
+7C1A9519;Sweet Relief
+2A0AF641;Sweet Relief
+B880BBAE;Steel Power
+562F0EBC;Steel Power
+3348B204;Steel Power
+8A706599;Steel Power
+EF17D921;Steel Power
+01B86C33;Steel Power
+64DFD08B;Melon Juice
+25EECB92;Juiced Up
+E6BDE6B9;Fur Coat
+A78CFDA0;Feeling Grape
+601ABC2F;Strawburst
+212BA716;Watermaulin'
+062E0F9A;Slimed
+BE7F1C94;Slimed
+60E37E49;Delicious Dumpling
+8E4CCB5B;Who's a good boy!
+EB2B7763;Monkeying Around
+5213A002;A Peck Above
+37741C46;Nyancelerator Tech
+D9DBA954;P.K.Swirls Meter
+BCBC152C;Oath of Fealty
+EAAC76B4;Witching Hour
+8FCBCA0C;Loosen Up
+00B0BEB3;Tootin' Tech
+EE1F0BA1;Emperor Mode On
+8B78B719;Lord Enma's Favor
+32406084;Normalize
+5727DC3C;Palatial Power
+B988692E;Grant Strength
+DCEFD596;Morale Boost
+8AFFB64E;Curse of the Oni
+EF980A76;Machine Power
+B4405289;Become Violent
+D127EE31;Shielding Slime
+3F885B23;Crank-a-Kai Crazy
+5AEFE79B;Drench
+E3D73006;Astrally Augmented
+86B08CBE;Jittery Jinx
+681F39AC;Curse of the Oni
+0D788514;Arrest Momentum
+B5BFC24A;Heart-a-Flutter
+5B107758;Butter Fingers
+3E77CB60;Disturb Sleep
+874F1C05;Gutsy Gambler
+E228A045;Goof Up
+0C871557;Step it Up!
+69E0A92F;Leg it!
+3FF0CAB7;Meat-a-mins
+5A97760F;Me Know Nothing...
+60F11E4F;Snobbery
+0596A217;Pause for Thought
+EB391725;Taunt
+AA080C04;Taunt
+8E5EAB5D;Land Ahoy!
+37667C40;Can-Do Champion
+5201C078;Lap it Up!
+BCAE756A;Grande Guts
+D9C9C952;Expose Weakness
+8FD9AA8A;On the Warpath
+EABE1632;Unzip Defenses
+B08BBE08;Slip'n'slide
+D5EC02B0;Mishear
+3B43B7A2;But Whhhyyy?!
+5E240B1A;Pass the Chuk
+E71CDC87;Cornfuse
+827B603F;Paaaaaartay!
+6CD4D52D;Rainbow Aura
+09B36995;Paralyze
+5FA30A4D;Perplex
+3AC4B675;No Toilet Paper!
+00A2DE35;Just Chill Out
+65C5628D;Frivolous Frittering
+8B6AD79F;Hear-Too-Much
+EE0D6B27;A-meh-zing
+5735BCBA;Paralyze
+32520002;Curse of the Oni
+DCFDB510;Elegance
+9DCCAE09;Elegance
+B99A09A8;Drown in Delight
+EF8A6A10;Nummskullery
+8AEDD648;Unfazed
+107EFE87;Overreact
+7519423F;Dreadful Driving
+9BB6F72D;Heedlessness
+FED14B95;Burst into Song
+47E99C08;Shell Shield
+228E20B0;Repossess
+CC2195A2;Listen Up!
+A946291A;Hammer into Shape
+FF564A42;Kai-borgization
+9A31F60A;Blow Your Top
+A0579EBA;Steak Sauce
+C5302202;No Herd Instinct
+2B9F9710;Defensive Posture!
+4EF82BA8;Silver Sheen
+F7C0FC35;Sharp Skin
+B6F1E72C;Sharp Skin
+92A7408D;Unbelievaboy Might
+7C08F59F;Befuddle
+196F4927;Don't Dessert Me
+4F7F2A7F;Butter Blue
+2A189647;But Whhhyyy?!
+702D3E05;Cue-Tee's Choice
+154A8245;Languid Lolling
+FBE53757;Languid Lemon
+9E828B2F;Make a Stink
+27BA5C72;Slack Off
+42DDE04A;Big Spender
+AC725558;Dire Demands
+C915E960;Breadwinner
+9F058A38;Fortune's Fool
+FA623680;Burn
+C0045E40;Tengurious Tailwind
+81354559;Seal
+A563E278;Punkification
+E452F961;Hot Chilli Challenge
+4BCC576A;So Sharp Cyclone
+2EABEB52;Beatific Bathtime
+97933C4F;Get Lookin'
+F2F48017;Harmonic Healing
+1C5B3525;Weightlessness
+793C895D;Spill Over
+2F2CEA05;Cheer On
+4A4B56BD;Tongue Tied
+11930E42;Such a Parfait Day
+74F4B20A;Got it!
+9A5B0728;One with the Earth
+FF3CBB50;Fun Times
+46046C4D;Swayed Intentions
+2363D075;Dental Defence
+CDCC6567;Balmy Bathtime
+A8ABD95F;In Good Hands
+FEBBBA87;Scientific Method
+9BDC063F;Speed Up!
+DAED1D26;Sonic Stance
+A1BA6E7F;Florescent Flourish
+C4DDD247;Slow Down
+2A726755;Retreet
+4F15DB6D;Stop Negging Me!
+F62D0C10;Prickly Prickle
+934AB048;Big Mess Up
+7DE5055A;Geekify
+1882B922;Enrage
+59B3A20B;Enrage
+9AE08F50;Enrage
+DBD19449;Enrage
+1C47D586;Enrage
+4E92DABA;Crisp and Tasty
+2BF56602;Self Loathing
+7EAAEA14;Crook-a-doodle-do
+1BCD564C;Off Guard
+F562E35E;Painful Memories
+90055F26;Hip Hop Hold Up
+293D887B;Hairy Happenings
+4C5A3443;Retreet
+A2F58151;Lethargy
+C7923D69;Butterfingers
+91825E31;H4xx0red, n00b!
+F4E5E289;Cruel Concoction
+B5D4F990;Crazy Concoction
+CE838A49;Hate to Wait
+ABE43671;That's the Way!
+454B8363;Tie-m to go Home
+202C3F5B;Polite to a Fault
+9914E846;Love-Torn Tirade
+FC735402;Slapped Silly
+12DCE12C;Indentured Service
+77BB5D54;Creep Out
+21AB3E0C;Foist Off
+44CC82B4;Lonely World
+1EF92A8E;Can't Keep This Up
+7B9E9636;Baggy Britches
+95312324;Hard Luck
+F0569F9C;Shell Shatter
+496E4801;Sick Inducing
+2C09F4B9;Polite to a Fault
+C2A641AB;Decisive Action
+A7C1FD13;Haired to Death
+F1D19E4B;Hidden Potential
+B0E08552;Phantasmal Power
+94B62213;Mired Down
+AED04AB3;Jibber Jabbering
+CBB7F60B;Impending Doom
+25184319;That'll Do!
+407FFFA1;Slow and Steady
+F947283C;FREAK OUT!
+9C209484;Rampage
+728F2196;Reckless Optimism
+17E89D2E;Starstruck!
+41F8FE76;What's the Snip-Up?
+249F424E;Inflated Ego
+BE0C6A01;Yank Off
+DB6BD6B9;Grumble and Gripe
+35C463AB;Battered Bitterness
+50A3DF13;Mysterious Ooze
+E99B088E;Puppy Press
+8CFCB436;I Did it Myyyy Way!
+62530124;Demolition
+23621A3D;Squandasaurus Rex
+0734BD9C;Lingering Smile
+5124DE44;Marine Mysteries
+3443627C;Asura's Rage
+0E250A3C;Curse of Q
+BB381643;Dramatize
+0200C15E;Future Tech
+67677D26;Enrage
+31771EBE;Wonder Wasabi
+5410A206;Battered Boon
+0B117602;Last Stand
+E5BEC32C;Platinum Plating
+80D97F54;Sparkly Swirls
+39E1A849;Rousing Rally
+5C861471;Trivialize
+B229A163;Dandify
+D74E1D5B;Millionaire Misbelief
+815E7E83;City Snobbery
+E439C23B;Hyperactive Hijinks
+BFE19A44;Swirlin' on Up
+DA86267C;Merican Mechanics
+3429936E;Steel Chassis
+514E2F56;Steel Chassis
+E876F84B;Feelin' Famished
+8D114413;Delinquency
+63BEF121;Loquaciousness
+06D94D59;Healing Hot-cakes
+50C92E01;Forced Apology
+35AE92B9;Lively Lettuce
+0FC8FA09;Yum Choco-Banana
+6AAF4641;Disbursement
+8400F353;Buzzin'
+E1674F2B;Mount Up!
+585F9876;Kupower Nyan!
+3D38244E;Wobble Nyans
+D397915C;Wibble Swirls
+E0E04E3C;Loosen Up
+8587F284;Toughen Up
+BE1E0A87;Cloaked in Miss Teri
+50B1BF95;Scarlet Secrets
+35D6032D;King of Nyans
+8CEED4B0;Darn Queenin'
+E9896808;Jack of all Swirls
+0726DD1A;Tenfold Triumph
+624161A2;Ace of Nyans
+3451020A;Joker of the Pack
+0E376ABA;Benzaiten's Wrath
+E098DFA8;Hotei's Favor
+85FF6310;Ebisu's Fortune
+3CC7B48D;Daikokuten's Ward
+59A00835;Bishamonten Boon
+B70FBD27;Jurojin's Curse
+D268019F;Fukurokuju's Favor
+BB2A7645;Simply Gorgeous
+DE4DCA05;Nyan of Steel
+30E27F2F;Midnight Malady
+5585C357;Ultimate Power
+ECBD144A;Complete Exposure
+89DAA872;Kongming Whisdom
+67751D60;Indomitable Ire
+5402C280;Darn Tofootin'
+31657E38;Defenseless
+0B031678;Procrastination
+6E64AA40;Pudding Positivity
+80CB1F52;Blue Shy Thinking
+E5ACA36A;Self-important Spirit
+5C947417;Rapturous Redress
+39F3C84F;Sink'n Feelin'
+D75C7D5D;Pincushion
+B23BC125;Chic Compulsion
+E42BA2BD;Power of Enma
+814C1E05;Dashingly Divine
+1BDF364A;Awaken
+7EB88A72;Gilded Guard
+90173F60;Alloyed Powers
+F5708358;Forbidden Power
+4C485445;Catlike Reflexes
+292FE805;Divine Defense
+C7805D2F;Swirly Scourge
+A2E7E157;False Fortunes
+F4F7820F;Focused Rage
+91903EB7;That Eureka Moment
+ABF65617;That Eureka Moment
+1EEB4A08;Whyvern Wind
+F044FF1A;Stress Out
+952343A2;Yummy Yolk
+2C1B943F;Brittle Bones
+497C2887;Crummy Curse
+A7D39D95;Treasure Trapped!
+C2B4212D;Believe in Yourself!
+401EE9B2;I'm Too Blizzy!
+E0F20E5B;Feel da Beat!
+AEC22A35;Radiant Rapture
+406D9F27;Stitch in Time
+250A239F;Penumbral Power
+9C32F402;Resonant Rhythm
+F95548BA;Breathe In...
+17FAFDA8;Breathe Out!
+729D4110;Just Gotta Shout!
+248D2248;Ocean Guard
+41EA9E10;Alpine Guard
+1A32C60F;Lunar Guard
+7F557AB7;Frightful Flash
+91FACFA5;Abyssal Addle
+F49D731D;Infernal Immobility
+6BAC5C76;Dig Long & Prosper
+8503E964;Spirit of Adventure
+E064555C;Zombify
+595C8241;Infantilize
+3C3B3E09;Spiteful Sphinx
+D2948B2B;Hinix Flame
+B7F33753;Treasure Transfixion
+E1E3540B;Clown Around
+203E5F5D;Unnamed
+4559E325;Unnamed
+FC613478;Unnamed
+99068840;Unnamed
+77A93D52;Unnamed
+AB18BC05;Back to Basics
+50542D41;Unnamed
+8D8C47B3;Unnamed
+EC58861E;Unnamed
+55605183;Unnamed
+D7B9EF89;Unnamed
+A2027383;Unnamed
+122B13BE;Unnamed
+99E31A14;Unnamed
+F0A16D4E;Unnamed
+A3EF8346;Unnamed
+AAFE3426;Unnamed
+2279D222;Unnamed
+A0A06C28;Unnamed
+1CACC7B7;Unnamed
+4B3BA538;Unnamed
+69175BBD;Unnamed
+5020D266;Blabber Mouth
+E871C168;Blabber Belch
+F5F38EAD;Pointy Toothpick
+478F03A9;Ninja Stab
+1B5C3BBF;Toothpick Rainfall
+5A6D20A6;Gutsy Cut
+7E3B8707;Croaking Prayer
+C703509A;Yawnehameha
+86324B83;Yawnehameha X
+A264EC22;Mochi Punch
+E355F73B;Minochi Punch
+10186126;Impulsive Punch
+4CCB5930;Halfhearted Chop
+29ACE588;Resigned Rush
+689DFE91;Phantom Smash
+7FBC8650;Go for Broke
+CDC00B54;Bluff 'n' Tumble
+1ADB3A68;Legendary Slash
+5BEA2171;Holy Slash
+A8A7B76C;Blunt Blade
+20BD5228;Demonic Slash
+45DAEE90;Helmsman Helm
+AB755B82;Knight's Slash
+EA44409B;Ticket to Hades
+1909D686;Head Off
+CE12E73A;Blazing Fist
+8F23FC23;Earthshaker
+4C70D108;Roaring Stance
+7C6E6A3E;Narrow Margin
+772A30A7;Big Pincers
+C556BDA3;Black Scissors
+124D8C1F;Infernal Pincers
+537C9706;The Guillotine
+57B9FB62;Infernal Pincers
+FCE2390D;999 Blades
+BDD32214;B3-NK1 GUN
+998585B5;Zerberker Slash
+D8B49EAC;For Naughty Brats
+2BF908B1;Reckless Dancing
+CF95E62D;Stretchy Slap
+8EA4FD14;Sneezy Spike
+AAF25A55;Third Eye
+EBC3414C;Foursight
+188ED751;Plunging Heart
+F0C7F26F;Wuwuzzat?
+B1F6E976;Ignorance Is Bliss
+42BB7F6B;Sneaky Thief
+95A04E57;Mwabsorption
+D491554E;Blue Kiss
+7B0FFB45;Sushiyama Strike
+3A3EE05C;Boastful Bomber
+C9737641;Annoying Stomp
+1E68477D;Kiss of Life
+AC14CA79;Kiss Kiss Bang
+A7509020;Heavenly Heart
+E6618B09;Fiery Longing
+C2372C58;Loving Slap
+83063741;Skeleton Smack
+704BA15C;Slap 'n' Grab
+2C98994A;Max Volume 11!
+49FF2512;Sleepy Smoke
+08CE3E2B;Daydream
+1FEF46AA;Signal Shock
+7A88FA12;Ton o' Thunder
+3BB9E10B;Giga Turbocharge
+40EE9252;Mirror to Mirror
+D6DE9525;Mirror to Mirror
+6C8F9CBC;Mirror to Mirror
+01DF894B;Dark World
+97EF8E3C;Dark World
+2DBE87A5;Dark World
+25892E2A;Spirit Illusion
+64B83513;Spirit Daze
+A7EB1858;Wandering World
+97F5A32E;Mirrored Soul
+CB269B08;Snow Sherbet
+795A1604;Brain Freeze
+AE412740;Shiny Snowdrifts
+EF703C59;â˜†Shiny Chaos
+1779F05D;Inferno
+5648EB44;Arctic Abyss
+951BC62F;Alpha Omega
+721E4C65;Headbutt HEY-O!
+9CB1F977;Burning Buster
+DD80E26E;Gorilla Straight
+F9D6454F;Koff Dropper
+B8E75E56;Sting Bomb
+AFC62697;â˜†Stylish Stab
+1DBAAB93;â˜†Brelly Rush
+CAA19A2F;â˜†Prism Parasol
+8B908136;â˜†Radiant Rain
+5032B220;No Way Through
+35550E58;Insurmountable
+74641541;Stonewall Drop
+DBFABB4A;Barricade Block
+9ACBA053;Iron Cloutain
+BE9D0712;Lock of Steel
+07A5D06F;Ultra Sumo Stomp
+4694CB76;Midnight Stomp
+62C26C57;Super Horn Crash
+D0BEE153;Path to Heck
+8C6DD945;Horn Breaker
+CD5CC25C;Horn Explosion
+E90A657D;Glorious Buh-Bye
+A83B7E64;Self-Destruct
+6B68534F;Refined Guard
+2A594856;Platinum Guard
+5B76E879;No Scope
+BF1A0625;Total Collapse
+FE2B1D3C;Tidal Guard
+DA7DBA9D;Cicada Cut
+68013799;Pizza Slicer
+E01BD25D;Shadow Speed
+A12AC944;Wind Run
+857C6E65;Boohoo Blast
+C44D757C;Awfully Awkward
+071E5857;Meet the Reaper
+3700E361;Delinquent Doom
+6BD3DB77;Paws of Fury
+D9AF5673;Dirty Claws
+0EB4674F;Thorny Thwacks
+B78CB052;Nyice ta Beatcha
+D2EB0C2A;Guard Meowde
+93DA1713;Gold Thundpurr
+3C44B908;Perfect Paws
+7D75A221;Pure-Blue Paws
+BE268F4A;Cutie Paws
+FF179453;Ruby Boogie
+3881D59C;Glittering Paws
+59230540;Mega Waterfall
+EB5F8844;Great Heights
+0F336618;Torrent Slash
+4E027D01;Bodacious Slash
+BD4FEB1C;Strobe Attack
+6A54DAA0;Spirit Dance
+2B65C1B9;Wild Zaps
+D82857A4;Groovy Moves
+3061729A;Spirit Burst
+B20344A8;Crazy Lightning
+821DFF9E;Me-First Burst
+5506CE22;Spacing Out
+1437D53B;Uh, Er... Hold On.
+E77A4326;Man of the House
+BBA97B30;Icicle Crack
+DECEC788;Subzero
+9FFFDC91;Heat Wave
+6CB24A8C;The Spine Tingler
+67F61015;Fidgeting Smack
+26C70B0C;Trembling Smack
+0291ACAD;Roll of Fate
+94A1AB5A;Roll of Fate
+2EF0A243;Roll of Fate
+B8C0A534;Roll of Fate
+43A0B7B4;Hit It Big!
+EC3E19BF;Typhoon Fan
+AD0F02A6;Blazing Typhoon
+5E4294BB;Zero Gale
+8959A507;Hungry Impact
+C868BE1E;Fresh Impact
+3B252803;Weirdsplosion
+DF49C65F;Gleeful Gluttony
+BA2E7A27;Creepy Superbite
+0852F723;Evil Eye
+804812A7;Superbite Twin
+C17909BE;Stygian Slingshot
+E52FAE1F;In da Funny Bone
+A41EB506;Eel Life
+674D982D;Venoconda
+5753231B;Shut Yo' Mouth
+0B801B0D;Energy Heaven
+4AB10014;Enemy Aura
+B9FC9609;Forged in Fire
+6EE7A7B5;Bestacular
+2FD6BCAC;Party Miracle
+D7DF7028;Wiggling Wave
+96EE6B31;Mambo Madness
+55BD461A;Seaweed Samba
+65A3FD2C;Walk Softly
+B2B8CC90;Heartstring Tug
+00C44194;Youthful Trickery
+5C177982;Heartmelt Love
+1D26629B;Twisted Love
+3970C53A;Air of Happiness
+6F60A662;Fun Field
+2E51BD7B;Zany Zone
+0A071A5A;Pick-a-Present
+9C371DAD;Pick-a-Present
+26661434;Pick-a-Present
+B0561343;Pick-a-Present
+4B360143;Get-a-Present
+B87B975E;Jail-Yard Sale
+51DF4225;A Mother's Love
+10EE593C;Loving Auntie
+34B8FE9D;A Father's Scorn
+7589E584;Table Flip
+86C47399;Stress Out
+DA174B8F;Shoulder Crunch
+BF70F737;Shoulder Lock
+FE41EC2E;Backache Buster
+064820AA;Negativity Germs
+B434ADAE;Maniacal Klepto
+632F9C12;Think Evil
+221E870B;Itchpocalypse
+8D8029;C'mon, This Way!
+CCB13219;Just for You
+E8E795B8;Life Snag
+A9D68EA1;Face Flop
+BEF7F620;Bigmouth
+FFC6ED09;Badger Bite
+DB904A58;Stare Down
+69ECC75C;Matter Mincer
+E1F62218;Gangster Glare
+6394142A;Brutal Butt Bat
+84919EA0;Negasus Curse
+C5A085B9;Dark Horse
+36ED13A4;Lucky Shock
+6A3E2BB2;Scary Wrinkles
+D842A6B6;Make It Drain
+0F59970A;Beauty Beam
+4E688C13;Undying Drain
+BD251A0E;Midlife Crisis
+B6614097;Stinky Smog
+F7505B8E;Toxic Gas
+D306FC2F;Lamest Joke
+9237E736;Millennium of Lame
+617A712B;Mystery Trickery
+3DA9493D;Never Sleep Ever
+7C985224;Unwaking Dream
+8FD5C439;Glowing Gazes
+58CEF585;Did You See Me?
+0EDE965D;Hazy Dance
+4FEF8D44;Creep 'n' Cut
+6BB92A65;Drizzling Shower
+2A88317C;Shivering Sigh
+E9DB1C57;Nosebleed Bomb
+3EE6A693;Heavy Squall
+7FD7BD8A;Heavenly Hail
+5B811A2B;Dismartillery
+B52EAF39;Envious Hand
+F41FB420;Grub Stealer
+D0491381;Hidabat Harmony
+6971C41C;Abodaballad
+2840DF05;Belfree Blues
+0C1678A4;I Want It All!
+4D2763BD;Carefree Hero
+BE6AF5A0;The Works
+E2B9CDB6;Gloomy Storm
+A388D6AF;Demonic Storm
+50C540B2;Turnado
+87DE710E;Suspicious Eyes
+C6EF6A17;Temper Tantrum
+05BC473C;Contrary Gas
+D1CE1256;Timid Boo
+63B29F52;Glue Stickler
+B4A9AE2E;Boldakazam
+F598B517;Bacteria Barrage
+8ECFC6AE;Stingy Curse
+CFFEDDB7;Pitch-Black Curse
+3CB34BAA;Deep Look
+EBA87A16;Noko Smile
+AA99610F;Panda Smile
+59D4F712;Robo Smile
+0507CF04;Lucky Smile
+606073BC;Draggie Stone
+D21CFEB8;Cheat Code
+D958A421;Dragon Rock
+9869BF38;Dragon Falls
+BC3F1899;Hateful Charge
+5290AD8B;Vengeance
+13A1B692;Frenzied Rage
+37F71133;Sharkskin Shield
+76C60A2A;Feeding Frenzy
+858B9C37;Little White Lie
+61E7726B;Bank Breaker
+20D66972;Eternal Debt
+D39BFF6F;Shake It Up
+0480CE53;Babbleblast
+45B1D54A;Banana Splat
+5EB56629;I'll Take the Lead!
+1F847D10;Venomous Feint
+DCD7505B;Sulky Soul
+ECC9EB2D;Going Wild
+3BD2DA51;Octo Snake
+7AE3C148;Shadow Dragon
+B9B0EC63;Dragon Flash
+D57D6F43;Bonito Blade
+B01AD30B;Shura Shower
+09220466;Handsome Grin
+6C45B85E;Full Bloom
+82EA0D4C;Golden Beatdown
+8BFBBA6C;Paws 'n' Claws
+65540F7E;Cleaning Circle
+0033B346;Angry Cross Cut
+B90B645B;Onigiri Slash
+DC6CD823;Lickety-Lick
+6E105527;Lick of Fury
+32C36D11;Gutsy Cross Paw
+BDF8BC02;Gutsy Cross Paw
+57A4D149;Dirty Trick
+E5D85C4D;Fizzical Finesse
+01B4B211;Victoryyyyyyyy!
+64D30EA9;Spray Care
+FE402666;Lion Blade
+9B279A5E;Toasted Slash
+75882F4C;Open Wide
+34B93455;Ill Appetite
+10EF9374;North Wind
+A9D74429;Cloud Control
+1BABC92D;Boss Hurricane
+CCB0F851;My Bad
+221F4D43;Imitate Guardian
+4778F10B;Lies-er Beam
+116892A3;Forget About It
+740F2E1B;Upward Tornado
+C673A31F;Detailspin
+4E69465B;Stirring Broth
+2B0EFA23;Endless Apology
+C5A14F11;Mirror Mirror
+53914886;Unnamed
+E9C0411F;Unnamed
+A0C6F349;Shock Tactic
+E1F7E850;Thunderstruck
+19FE2454;Cracked Pot
+7C99986C;Bowl Buster
+92362D7E;Sweaty Wall
+F7519146;Zattack
+A141F29E;You've Lost Me
+C4264E26;Life Looter
+9E13E61C;Prawn Punch
+FB745AA4;Tank 'n' Spank
+15DBEFB6;Centur-Eye Stare
+54EAF4AF;Dazzling Glare
+A7A762B2;Laser Eyes
+70BC530E;Proteam
+C9848493;Divine Strike
+ACE3382B;Patience Wall
+424C8D39;Warts and All
+037D9620;Geck Out
+272B3181;Blank Face
+9557BC85;Winning Ugly
+713B5259;Eyelusion
+C347DF5D;Cut to the Quick!
+145CEE61;Shake a Leg
+2E3A8621;Flying Start
+4B5D3A99;Drenched
+A5F28F8B;Change Face
+C0953333;Sleepy Gas
+79ADE4AE;Mega Wave
+389CFFB7;Raging River
+CBD169AA;Tidal Force
+1CCA5816;The Hose
+F265ED04;Lick of Love
+970251BC;Umbrella Gust
+257EDCB8;Brelly Blast
+C1123224;Sandslide
+A4758E5C;Rockin' Rockets
+FFADD6A3;Soothing Fortune
+4DD15BA7;Joke on It
+9ACA6A1B;Innocent World
+28B6E71F;Gleeful as a Gale
+7465DF09;Solar Flare
+110263B1;Seaweed Carnival
+A83AB42C;Lick of Life
+CD5D0894;Sand Stormal
+23F2BD86;Umbrellicade
+4695013E;Joyful Jig
+10856266;Empty Pockets
+75E2DE5E;Bull Rush
+4F84B69E;Kyryn's Kry
+0EB5AD87;Horn of Plenty
+2AE30A26;Sole Quaker
+989F8722;Blistering Idiot
+C44CBF34;Worn Out
+A12B038C;Energetic Gulp
+1813D411;Sap
+7D7468A9;Abrupt Punch
+93DBDDBB;Borrowed Health
+F6BC6103;Channel Changer
+A0AC025B;Triple Trouble
+C5CBBE23;How Dare You!
+9B35FA58;Big Bloodsucker
+FE524620;Tuckered Out
+10FDF312;Pitch Bomber
+759A4F4A;Fluffy Dispel
+C7E6C24E;Eternal Bed Hair
+CCA29857;Ah, Ah, Ahâ€”
+A9C5246F;Boastful Dance
+476A917D;Curse You!
+220D2D45;Squirm
+741D4E9D;Ropin' Robbin'
+117AF225;Squealing Boil
+2B1C9A65;Loud and Proud
+4E7B265D;Bushy World
+FC07AB59;Lemming Attack
+A0D4934F;Cursed Love
+C5B32F77;Spider Smash
+8482346E;Spider Crash
+7C8BF82A;Bear Knuckle
+19EC4452;Morning Shower
+F743F140;Tossabout
+92244D08;Maruckus
+C4342EA0;Sucksorcism
+A1539218;A Fisher's Life
+FB663A22;Flailing Tail
+9E01869A;Beach Wave
+2C7D0B9E;Malmaidened
+70AE3388;Twist 'n' Tangle
+C2D2BE8C;Spinning Headbutt
+15C98F30;Aaand Release
+ACF158AD;Flaming Tail
+C996E415;Vacuucism
+27395107;Whining Wail
+425EEDBF;Tidal Wave
+036FF6A6;Big Wave
+7129325F;Finale Spoiler
+4B4F5A1F;Pooped Out
+2E28E6A7;Lick 'Em Good!
+79BF8428;Unfairy Kraft
+9710313A;Unkind Kiss
+F2778D82;Untidy Keeper
+A467EE5A;Unpleasant Kurse
+C1005262;Unkeen Krack
+5B937AAD;Me, Me, Me
+3EF4C615;Yes We Pelican!
+D05B7307;Night Claw
+B53CCFBF;Flurry of Furry
+0C041822;Bon AppÃ©tit
+6963A49A;Farewell Blast
+87CC1188;Lovely Meow
+E2ABAD30;Tiger Meow
+B4BBCE68;Swirly Nyanball
+D1DC7250;Paws of Flying
+EBBA1A90;Vagabond Blade
+0515AF82;Icky Picky
+BC2D781F;Mighty Moxie
+D94AC4A7;Mega Moxie
+3BC0BA57;Iron Anger
+5EA7066F;Iron Frost
+B008B37D;Nightmare Beat
+EE8E6652;Kappa Cutter
+0021D340;Koma Kannon
+65466F08;Eat This!
+DC7EB865;Pooch a' Splode
+B919045D;Soothing Smile
+57B6B14F;Dragonic Burn
+32D10D77;Melon Masher
+73E0166E;Vitameow C
+B0B33B45;Stubble Barrier
+F182205C;Grape Buddies
+36146113;Strawberry Roar
+77257A0A;Seed Nyattack
+46624305;Awkward Silence
+A8CDF62F;Awkward Moment
+CDAA4A57;Snooze Bruiser
+74929D4A;Hog Wild
+11F52172;I'm a Panda!
+FF5A9460;Panjitsu
+9A3D2858;Eelergetic
+CC2D4B80;Bored Slice
+A94AF738;Octopick
+932C9F78;Octopoke
+F64B2340;Thand You
+18E49652;No Thand You
+7D832A6A;Slapdown
+C4BBFD17;Smackdown
+A1DC414F;Oh!
+4F73F45D;Gleeruption
+2A144825;Make You Happy
+7C042BBD;Starry Bright
+36EDA335;Dumpling Dice
+D8421627;Puppy Paws
+BD25AA9F;Go Ape
+041D7D02;Flying Feathers
+617AC1BA;Meow Meow Blaster
+8FD574A8;Bow Wow Blaster
+EAB2C810;Excalipurr
+BCA2AB48;Infurno
+D9C51710;Paws of Rudy
+56BE634F;Boing Blaster
+B811D65D;Imperial Beam
+DD766A25;Supreme Enma Blast
+EA1CA824;Hellish Enma Blade
+644EBD78;Mediocre Boy's Aura
+01290140;First-Aid Kit
+EF86B452;Axe Slash
+8AE1086A;Top-Secret Orders!
+DCF16B32;Toadal Waterfall
+B996D78A;Bloom Barrage
+E24E8F75;Infernal Blast
+8729334D;Sucking Void
+6986865F;Jackpot Jive
+0CE13A67;Super Gloomy Story
+B5D9ED0A;Alien Encounter
+D0BE5142;Explosive Strike
+3E11E450;Websmite
+5B765828;Judgment Wave
+E3B11F36;Openly Hidden Heal
+0D1EAA24;All or Nothing Shot
+9B2EAD53;All or Nothing Shot
+6879169C;Pillow Whump
+D141C101;Killer Kick
+B4267DB9;Frenzied Fullswing
+065AF0BD;Hopeless Swipe
+5A89C8AB;Emotional Moment
+3FEE7413;Flee Fly GO!
+69FE174B;Meat, Please! Meat!
+DB829A4F;Best Burnt BBQ
+0C99AB13;Feinted Slice
+36FFC3B3;Harum Scarum Hat
+53987F0B;Well-Conceived Kick
+BD37CA19;Ninja Nastiness
+FC06D1;Endless Storm
+D85076A1;Columbakat's Egg
+6168A13C;Hearty Hit
+040F1D84;Tongue Red Carpet
+EAA0A896;Peerless Punch
+8FC7142E;Fearful Fiesta
+D9D77776;Gutsy Cross Paw
+BCB0CB4E;Zippy Cheer
+E6856314;Ice Rink Roundabout
+83E2DF4C;Owling Wind
+6D4D6A5E;What's All the Fuss?
+082AD626;Killer Pass
+BA565B22;Tactical Toss
+B112017B;A Cornfusing Story
+036E8C7F;Amaizing Memory
+D475BD43;Party Time
+3ADA0851;Kaleidoskull
+5FBDB469;Static Spark
+09ADD731;Tricky Business
+6CCA6B89;Wipe-a-Way
+56AC0349;Chillin', just chillin'!
+33CBBF71;Bulk Bestowal
+81B73275;Take That Thief!
+DD640A63;Red-letter Rockfest
+B803B65B;Enlightened Energy
+013B6146;1% Inspiration Flash
+645CDD02;Rotgut Flameblade
+8AF3682C;Ace of Heart
+CBC27315;Pure Love Story
+EF94D454;Celebrated Cowcao
+B984B70C;Nummskull Demise!
+DCE30BB4;Dangerous Driving
+4670237B;Oh My Gawd!
+F40CAE7F;Burger Battering
+23179F43;Outta the Way!
+CDB82A51;Heedless Heave
+A8DF9669;Soulful Shriek
+11E74114;Slippy Slap
+7480FD4C;On-the-Shelf Guard
+9A2F485E;Block Party Baffle
+FF48F426;Whap Bam Boom!
+A95897BE;Belly Button Beam
+CC3F2B06;Blowout
+F6594346;Thick 'n' Well Done!
+4425CE42;Stately Steak Stick
+933EFF02;Stircrazy Stu Slam
+7D914A2C;Full Broadside
+CFEDC728;Balker's Broadside
+18F6F654;Shari Bang!
+A1CE2149;The Shark Press
+E0FF3A50;Sharkadorian Shout
+C4A99D71;Whirling Wallop
+2A062863;Tweety Tumble
+4F61945B;Don't Abandon Me
+1971F783;Buttered Again!
+7C164B3B;Runsure How I Stop!
+2623E301;Be Gentle!
+43445FB9;Distant Shores
+ADEBEAAB;Demon Squash
+C88C5613;Skavoovie
+71B4818E;Slackoon Splash
+14D33D36;A Dog's Life
+A6AFB032;Wild Woman Wallop
+FA7C8824;Do I Dare?
+9F1B349C;Dempsey Rolls
+C90B5744;Get Onboard
+AC6CEB7C;Spirit Dance
+960A833C;Cycrown
+D73B9825;Garuda Flame
+F36D3F84;Blazing Badness
+B25C249D;Inflammamewl
+1DC28A96;Wasting Whirl
+78A5362E;Blissful Bathtime
+C19DE1B3;Probing Cure
+A4FA5D0B;Harmonic Heals
+4A55E819;Zero-G Afro-Power
+2F3254A1;Spinny Spills
+79223709;Go! Go! Tomorrow!
+1C458B41;Soothing Sermon
+479DD3BE;That Sunday Feeling
+F5E15EBA;Morning Dad
+22FA6F06;Super Heal
+CC55DA14;Recycled HP
+A93266AC;Energizing Exercise
+100AB131;Baffle Beam
+756D0D89;Wooing Whitening
+9BC2B89B;Floral Foam Wave
+FEA50423;Going the Extra Mile
+A8B5677B;Galapagan Grace
+CDD2DB43;Too Fast LOL
+8CE3C05A;Flying Dolphin
+F7B4B383;Captivating Camellia
+92D30F3B;Paws of Fury
+7C7CBA29;#soultimatemove
+191B0691;Bogus Barley Tea
+A023D10C;Finking Hard
+C5446DB4;Traces of Trash
+2BEBD8A6;Disconnect
+4E8C641E;Bunny Beam
+D8BC6369;Bunny Beam
+0FBD7F07;Quarterback Sack
+CCEE522C;Scuba Splash
+8DDF4935;Air Support
+4A49087A;Road Rage
+FCF0E91A;Bogus Bunny Beam
+189C0746;Morning Frazzle
+7DFBBB02;Self-Loathingville
+28A43708;Fowl Play
+4DC38BB0;Just as Expected
+A36C3EA2;Fake Newsflash
+C60B821A;Bonkers Bash
+74770F1E;Ribble Rapple
+7F335587;Bristleblockle
+1A54E93F;#worldpeace
+F4FB5C2D;Lazybones
+919CE095;Stick it to 'Em
+C78C834D;Brain Hack
+A2EB3F75;Hair Growth ZERO
+E3DA246C;Toxic Trouble
+988D5735;Flying Front Charge
+FDEAEB8D;Synchronicity!
+13455E9F;Homesickness
+7622E227;Explosive Jest
+CF1A35BA;Ripping Rancor
+AA7D8902;Sellout Slap
+44D23C10;Jaundmist
+F6AEB114;Come Play with Me
+21B580A8;Worried Wildfire
+77A5E310;Tub Turning Terror
+12C25F48;Your Own Paradise
+48F7F772;Blue on Blue Samba
+2D904B4A;Slovenly Slowdown
+C33FFE58;Funked Out Four
+A6584260;Egg Shell Shock!
+1F609505;Bad Night Belch
+7A072945;Ground Down
+94A89C57;Decisive Decree
+F1CF202F;Block-a-Rock
+A7DF43B7;Atomicomet
+E6EE58AE;Phantasmal Shower
+C2B8FF0F;Top Hit Stick
+F8DE974F;Unwanted Attack
+4AA21A4B;Socking It to Ya
+9DB92B17;Elastiwhack
+73169E25;Cricket Guard
+1671225D;Pace Yourself!
+AF49F540;Shock Jaw Attack
+1D357844;Croc-a-Jaw Shock
+CA2E4978;Stubborn Stomp
+2481FC6A;No Shell off My Back
+41E64052;Wonder Wet
+17F6238A;A Snip Too Far
+72919F32;Bombasticate
+E802B705;Octopull
+8D650B45;Do it this way!
+3F198641;Slyswipe
+63CABE57;Killit Skillet
+06AD022F;Oozing Out
+BF95D572;Click Click Bang
+DAF2694A;My Big Splash
+345DDC58;Stamping Destroyer
+756CC741;I Dun Dit It â™ª
+513A6060;Rise and Shine
+072A0338;Kelpy Hospitality
+624DBF80;Berserker's Fury
+582BD740;Stygian Obs-Q-rity
+ED36CB3F;Two World Beam
+540E1CA2;Meowl Be Back
+3169A01A;Bunny Beam
+6779C342;Total Tuna Fury
+021E7F0A;Frantic Fry Up
+5D1FAB02;Harakiri Sword
+B3B01E10;Platinummification
+D6D7A2A8;Twinkling Star
+6FEF7535;Gift of the Gab
+0A88C98D;Unbearable Truth
+E4277C9F;Pooch Patch Up
+8140C027;Money from Heaven
+D750A37F;Molar Immodesty
+B2371F47;Centicuffs
+E9EF4738;Knomadic Beam
+8C88FB80;Show Biz Bang
+62274E92;Double Dragun
+0740F22A;Cut of Nine Tails
+BE7825B7;Revittles
+DB1F990F;Spray Points
+35B02C1D;Flaming Fluency
+50D790A5;Warm from the Oven
+06C7F305;Accept My Expelogies!
+63A04F45;Salad Days Again
+59C62705;Chocoslap
+3CA19BBD;Protectionist Stance
+D20E2EAF;Grand Spectacular
+B7699217;Chocobo Charge
+0E51458A;Finally Fantasmagic
+6B36F932;Wobble Noggins
+85994C20;Wibble Noodles
+B6EE9340;Paws of Treanyaaah
+D3892F78;Treasured Soul
+E810D77B;Enigma Zone
+06BF6269;Frying Flames
+63D8DE51;Sovereign Slash
+DAE0094C;Endless Love
+BF87B514;Jack of All Dances
+51280026;Tenfold Trouncing
+344FBC5E;Figure of Ace
+625FDF06;Unhappy J Sickle
+5839B746;Benten Thunder
+B6960254;Feel-Good Flurry
+D3F1BE2C;Sumptuous Soothe
+6AC96971;Kiss of Kismet
+0FAED549;A Century of Lances
+E101605B;Existential Extractor
+8466DC63;Bright Blessing
+ED24ABB9;Absolutely Fabulous
+88431701;Paws of Justice
+66ECA213;Dark Dance
+038B1EAB;Ultimate Missile Pod
+BAB3C936;Bare Overbite Boon
+DFD4758E;Blabber Mouth
+317BC09C;Nightmare Beat
+020C1F7C;Soy Beam
+676BA344;Yawning Welcome
+5D0DCB84;Prolonging Poison
+386A773C;Caramel Calm
+D6C5C22E;A Turn for the Better
+B3A27E96;Pulverizing Pose
+0A9AA90B;Heavenly Heal
+6FFD15B3;Vigilant Vacillation
+8152A0A1;Glaring Terror
+E4351C19;Frenetic Fashion
+B2257F41;Wrathful Judgment
+D742C309;Heavenly Sword
+4DD1EB36;Evil Eyeball
+7ABB2937;Fell Enma Blade
+28B6578E;Pharaonic Curse
+C619E29C;Cluvian Claymore
+A37E5E24;Pandora's Box
+1A4689B9;Pulling Power
+7F213501;Paws of Clury
+918E8013;Spiritual Swirls
+F4E93CAB;Ominous Comets
+A2F95F13;Adjudicated!
+C79EE34B;Blockbuster Beam
+FDF88B0B;Gratitude Beam
+763082A1;Paws of Putridity
+AA6FE984;Mephitic Munch
+21A7E02E;Necrotic Flurry
+48E59714;Frigid Fist
+A64A2226;Deadly Deadeye
+C32D9E5E;Yolk's on You
+7A154943;Boning Up
+1F72F57B;Unrestful Repose
+F1DD4069;Setback-in-the-Box
+94BAFC51;Sweetheart
+1610344E;Cold Snap Slap
+B6FCD3A7;Scratch My Swirls
+F8CCF749;Solar Slam
+1663425B;Space-Time Surge
+7304FE63;Annihilator
+D77D41A3;Annihilator
+CA3C2902;Kaos March Off
+AF5B9546;Final Ferocity
+41F42054;First Ferocity
+24939C2C;Caw-Cawpse Breath
+7283FFB4;Tidal Stomp
+17E4430C;Blooming Health
+4C3C1B13;Lunar Landings
+295BA74B;Lava Lamp
+C7F41259;Heavy Heifer Hurt
+A293AE21;Stallion Stab
+3DA2818A;Fill You In
+D30D3498;Sharkshooting
+B66A8820;Choppa Lotta
+0F525FBD;Pacifier Power
+6A35E305;Passionate Regard
+849A5617;Hinix's Fiery Fun
+E1FDEAAF;Auric Exhalation
+B7ED8917;Divine Sword
+FD166109;Paws of Furry
+6B26668E;Paws of Fury
+47476860;Nyice ta Beatcha
+E4D20C02;Guard Meowde
+72E20B89;Gold Thundpurr
+C8B30210;Gutsy Cross Paw
+5E830567;Big Bloodsucker
+D1776F17;Flurry of Furry
+CF9EBA17;Farewell Blast
+59AEBD80;Lovely Meow
+BC277A20;Strawberry Roar
+2A177D97;Seed Nyattack
+CFFDCA2F;Iron Swing
+59CDCD98;Crash Landing
+E39CC401;Skyward Slam
+EEEC465F;Oni Bomb
+78DC41A8;Oni Bomb
+C28D4831;Incinerate
+54BD4F46;Oni Bomb
+3E29EE6D;Nightmare Beat
+C7650B7A;Unnamed
+7FD4AA52;Fetid Swing
+E9E4ADA5;Putrid Pound
+53B5A43C;Blighted Bat
+5EC52622;Zomgralos Bomb
+C8F52195;Zomgralos Bomb
+72A4280C;Incinerate
+E4942F7B;Zomgralos Bomb
+8E008E50;Rotten Beat
+774C6B47;Unnamed
+21527F05;Iron Swing
+B762788A;Crash Landing
+0043F34D;Oni Bomb
+9673F4BA;Oni Bomb
+2C22FD23;Waterfall
+BA12FA54;Bubble Trouble
+19879E4A;Bubble Blast
+8FB799BD;Bubble Trouble
+35E69024;Bubble Blast
+A3D69753;Bubble Blast
+D0865B7F;Nightmare Beat
+4435C345;Iron Swing
+D205C432;Crash Landing
+6854CDAB;Hack to Black!
+FE64CA5C;Iron Tornado
+5DF1AE42;Iron Tornado
+65244F75;Oni Bomb
+F3144802;Oni Bomb
+4945419B;Cluster Boom
+DF75462C;Cluster Boom
+7AC81345;War Paint
+ECF81432;Unnamed
+56A91DAB;Unnamed
+B5E1E747;Nightmare Beat
+6237F304;Wobble Butt
+F407F473;Super Soar
+4E56FD2A;Beef Bomber
+D866FA9D;Beef Bomber
+43267F34;Super Sick
+5CCA2304;Putrid Plague
+93E3D786;Sales Pitch
+D5167843;SeRvIcE pLeAsE!
+2D94BF25;SeRvIcE pLeAsE!
+B2659616;Unnamed
+71D6A103;Unnamed
+A96FB074;Unnamed
+133EB92D;Unnamed
+850EBE9A;Unnamed
+E7E6A674;Unnamed
+D21E9339;Scrableghhh!
+442E944E;Rusty Iron Arm
+F30F1F09;Super Suction
+ECE34339;Scrap Shield
+7AD3444E;Unnamed
+C0824D57;Unnamed
+56B24AA0;Unnamed
+23CAB7BB;Junkalanche
+C9637B46;Convict Kick
+5F537CB1;Jailbreaker
+E5027528;Knives Out
+E872F716;Blow This Joint
+7E42F081;Sam! Over here, pal!
+3F73EB98;Sam! Over here, pal!
+FC20C6B3;Sam! Over here, pal!
+BD11DDAA;Sam! Over here, pal!
+7A879C25;Sam! Over here, pal!
+38B75F44;Prison Break
+27CCCE54;Spinning Punch
+B1FCC9A3;Unnamed
+19311E54;Cheer
+06DD4224;Get outta here!
+90ED4593;Unnamed
+C45C02A2;Face Slam
+526C0555;Bite
+E54D8E92;Wisp Counter
+737D8925;Wisp Shuffle
+C92C807C;Wisp Counter
+5F1C870B;Wisp Shuffle
+FAA1D2A2;Dragon Breath
+6C91D555;Dragon Breath
+35882620;Redsplosion
+7475629F;Nonsense!
+5564EEAF;Gusty Winds
+C354E958;Which Will It Be?
+7905E041;Which Will It Be?
+EF35E736;Which Will It Be?
+4CA083A8;Which Will It Be?
+DA90845F;Which Will It Be?
+4A88B29F;Chirpster Lovin'
+85A1461D;Lovely Birdancer
+9ADAD78D;Bite!
+0CEAD00A;Lucky!
+B6BBD963;Utter Disaster
+208BDE14;Lucky!
+A427078D;Sloppy Lick
+3217000A;Utter Disaster
+88460963;Utter Disaster
+FFBD6B35;Bite!
+DEACE705;Lickety-Lick
+489CE072;Lucky!
+F2CDE92B;Utter Disaster
+64FDEE9C;Lucky!
+C7688A02;Utter Disaster
+CADBD6AB;Surgical Swipe
+EBCA5A9B;Soul Absorb
+7DFA5D2C;Blood Refill
+F42606AB;A Change of Heart
+6216015C;Maddiman Meddling
+3B0FF229;Get Well DOOM!
+A40FC258;Slump
+323FC5AF;Chunky Cat Crush
+851E4E28;Tornado
+9AF21258;Megasize
+55DBE65A;Nose Blows
+ECCB866C;Take this!
+7AFB811B;EX-pect this to hurt!
+CDDA0A5C;Feel my rage!
+5BEA0D2B;EX-ceptional Hate!
+D236566C;Cough It Up!
+5DC23C1C;Cough It Up!
+CBF23B6B;Cough It Up!
+4406511B;Get here now!
+FE575882;Get here now!
+68675F15;Get here now!
+1D1FA22E;EXcessive Force
+0264337E;X Smash
+94543409;EX-pectation of Pain
+2375BF4E;EX-cruciator
+B545B839;EX-ceptional Hate!
+0F14B1A0;EX-pect this to hurt!
+3C99E37E;Eye of the EXecutor
+86C8EA27;Eye of the EXecutor
+AAA9E409;EXceptional Eye
+10F8ED90;EXceptional Eye
+F3B01704;EXplosive Excisions
+6580108B;EXplosive Excisions
+A7B76FB5;Tentacle Slap
+31876842;Slurpy Spin
+8BD6615B;Trembling Tentacles
+86A6E385;Bleeeeem!
+1096E412;Bl-bleeeem! Bleem!
+994ABFB5;Toxic Tears
+0F7AB842;Spine-chilling Stall
+56634B37;Slap 'n' Slurp
+1919DB81;Executive Action
+8F29DC16;Crunch Time
+380857B1;Inspiration Strikes
+AE385046;Blockbuster Beam
+27E40B81;Don't Disturb Me!
+E8CDFF03;Power Nap
+1469595F;Summon Yo-kai
+82595E28;My Office, Now!
+D6A7E2A3;Employee Beam
+4097E554;Underling Gun Drop
+92D1D22B;Subordinate Slice
+DEA1454C;Second Helpings
+886C240D;Harmful Hoax
+F0307303;Harmful Hoax
+913D1C80;Hoaxy-Coaxy...
+247D5434;Entrancing Express
+97DA716B;Entrancing Express
+056CD804;Daydream Dragon
+0ADF5E8D;Daydream Dragon
+9CEF590A;Daydream Dragon
+E9301116;Hoaxy Roast
+5361188F;Hoaxy Roast
+C5511F08;Hoaxy Roast
+66C47B66;Hoaxy Roast
+1A808434;HarMEOWny's Hoax
+9B4FB829;HarMEOWny's Hoax
+0D7FBF9E;HarMEOWny's Hoax
+43997741;Fool's Paradise
+A2917311;Firing Beam
+34A17486;Rampage Beam OK!
+8EF07D1F;Launching Missile
+18C07A68;Launching Missile
+BB551E16;Launching Missile
+2D651981;Destruction Disk
+8380FF41;BLAZING BLAST
+9C6CA311;Toxic Transmission
+53455773;WildfAIre
+15B0F8B6;GUIDANCE MODE
+E3A06828;Firing V5 Beam!
+75906F9F;Multi-Launch OK!
+CFC16606;Launching Missile!
+59F16171;Launching Missile!
+FA64052F;Launching Missile!
+6C540298;V5 DEATH DISK: ON
+C2B1E458;WILD FIRE MODE.
+DD5DB828;Bad Vibes
+12744C6A;All Guns Blazing
+72EBD3B6;Scratch!
+E4DBD441;Slumbering Scratch!
+5E8ADD58;Mother's Rage
+C8BADA2F;Peculiar Position
+6B2FBEB1;Floor Smash!
+53FA5F86;Shivery Sigh
+C5CA5811;Languid Lament
+7F9B5168;A Force Blaster!
+4045577B;A Force Blaster!
+E9AB561F;Delightful Dreams
+665F3C6F;Delightful Dreams
+F74283;A Force Blaster!
+4C1603B6;Soporific Slander
+DA260441;Str. Talisman
+60770D58;Def. Talisman
+F6470A2F;Speed Talisman
+55D26EB1;Unnamed
+C3E26946;Unnamed
+79B3605F;Spirit Talisman
+833FF734;Sleep Uneasy
+150FF043;Sleep Uneasy
+4A3E3281;Alarm Bell
+DC0E3516;Lullaby
+F06F3B18;Unnamed
+61728488;Unnamed
+E3D33FBB;Earsplitting Elegy
+FC3F638B;Canticle of Chaos
+0B0A42BA;Canticle of Chaos
+75E3384C;Ruinous Rondo
+CFB23155;Maddening Mambo
+59823622;Puppeteer's Polka
+FA1752BC;Returners Requiem
+6C27554B;Dodging Ditty
+33169709;Give In
+A2E224A2;Merciless Melody
+BD0E7892;Mystifying Melody
+34D22355;Rhapsody in Zen
+8E832A4C;Wanderer's Waltz
+18B32D3B;Traitor's Tune
+BB2649A5;Flee for your lives!
+2D164E52;Maestro's Cloak
+72278C10;Give It Up
+1355E309;Stick Boomerang
+32446F39;8 Beat Thunder!
+A474684E;16 Beat Thunder!
+1E256157;Swirling Storm
+881566A0;Thunder Ball
+BDB00549;Unnamed
+2DA83309;Snare Heart
+E281C78B;Storm Thunderbeat
+2B80023E;Soul Solo
+A37C8334;High Kick
+354C8443;X Vacuum Kick
+8F1D8D5A;Iron Fist of Revenge
+8E613912;Iron Fist of Revenge
+826D0F04;UFO Soul Cutter
+EB809560;UFO Soul Cutter
+7DB09217;UFO Soul Cutter
+145D0873;Boombastic Bomb
+DCEA5761;Boombastic Bomb
+4ADA5016;Boombastic Bomb
+F08B598F;Boombastic Bomb
+66BB5E08;Boombastic Bomb
+9D815334;Ghoulfather's Favor
+52A8A7B6;Take the Canoli
+BC862F35;Ghoulfather Awe
+2AB62842;Gather the Family
+6CC2BA16;Dynamite Desire?
+FAF2BD61;Bada-bing!
+40A3B408;Bada-bing Bomb
+732EE626;Unnamed
+16495A9E;Unnamed
+AF718D03;Unnamed
+77CDCF12;Compression Chop
+E1FDC885;Seven-fold Sword!
+56DC4342;Denier of Dreams
+C0EC44B5;Gravitational Pull
+079F624F;Gravitational Pull
+7ABD4D2C;The Iceman Cometh
+EC8D4A5B;Intriguing Ar-T-facts
+4F182E45;Pirate Treasure!
+8619EB70;Conspiracy Blast
+D92829B2;Pyramid Power
+6379202B;Dimensional Drive
+F549275C;Don Spiracy Reality!
+6454984C;Don Spiracy Reality!
+C7E4AF4F;Zenlightened Slap
+51D4A8B8;Zenlightened Slash
+E6F52301;Zenlightened Rain
+84FED728;Zenlightened Rain
+3EAFDE71;Zenlightened Rain
+A89FD906;Zenlightened Rain
+70C52488;Green...Green...Red!
+B3941529;Green...Green...Red!
+D741A78C;Green...Green...Red!
+09C51C70;Green...Green...Red!
+CA942D11;Zenlightened Lava
+5CA42A66;Snowman Zah!
+F9197F4F;Outstare
+36308B4D;Daruma Supernova
+C657F577;Iron Swing
+5067F2;Horned Stomp
+EA36FB99;ZenDARKenment!
+7C06FC2E;Iron Tornado
+DF939870;Iron Tornado
+E7467947;Horned Bomb
+71767E30;Horned Bomb
+CB2777A9;Horned Bomb
+5D17705E;Horned Bomb
+F8AA2577;War Paint
+6E9A22;Unnamed
+D4CB2B99;Unnamed
+3783D115;Orcalyte's Beat
+856D19BB;Face Slam
+135D1E4C;Bite
+A47C958B;Kindled Counter
+324C9204;Searing Shuffle
+881D9B65;Kindled Counter
+1E2D9C12;Searing Shuffle
+BB90C9BB;Dragon Breath
+2DA0CE4C;Dragon Breath
+74B93D39;Infernal Eruption
+35447986;What nonsense!
+1455F5B6;Zenlightened Wind
+8265F241;Which Will It Be?
+3834FB58;Which Will It Be?
+AE04FC2F;Which Will It Be?
+0D9198B1;Which Will It Be?
+9BA19F46;Which Will It Be?
+0BB9A986;Chirpolyte Lovin'
+C4905D04;Fanfare
+DBEBCC94;Bite!
+4DDBCB23;Lucky!
+F78AC27A;Utter Disaster
+61BAC50D;Lucky!
+E5161C94;Sloppy Lick
+73261B23;Utter Disaster
+C977127A;Utter Disaster
+BE8C702C;Bite!
+9F9DFC1C;Lickety-Lick
+09ADFB6B;Lucky!
+B3FCF212;Utter Disaster
+25CCF585;Lucky!
+8659911B;Utter Disaster
+627AF3B7;Punch Left
+F44AF440;Punch Right
+436B7F87;Torneyedo Typhoon
+D55B7810;Cyclonic Chaos
+6F0A7169;Whimsical Whirlwind
+F93A761E;Whimsical Warp
+5AAF1280;Whimsical Warp
+CC9F1517;Whimsical Warp
+5C8723B7;Patronizing Pacifier
+CAB72440;Patronizing Pacifier
+93AED735;Pearly Night
+0DC3825C;Unnamed
+AFAE0A95;Iron Swing
+399E0D22;Sovereign Stamp
+83CF047B;Sovereign Swing
+15FF030C;Oni Cannon
+B66A6792;Oni Cannon
+205A6025;Oni Cannon
+9A0B697C;Oni Cannon
+0C3B6E0B;Oni Cannon
+9D26D19B;Oni Cannon
+0B16D62C;Oni Cannon
+EE9F118C;Oni Cannon
+78AF160B;Oni Cannon
+C2FE1F62;Oni Cannon
+8EBF86A5;Roiling Seas
+188F8152;Summon Oni
+A2DE884B;Summon Oni
+34EE8F3C;Summon Oni
+977BEBA2;Summon Oni
+014BEC55;Summon Oni
+BB1AE54C;Plundros Payload
+2D2AE23B;Plundros Payload
+BC375DAB;Plundros Payload
+9153DA95;King's Compass
+0763DD22;King's Compass
+BD32D47B;King's Compass
+2B02D30C;King's Compass
+5E7A2E17;Kingsrod
+D7388F7D;Whale Whip
+4108880A;Whale Whorl
+F629034D;Maelstrom Beam
+26ECAB;Baleen Bash
+E9C55F7D;Finback Furor
+7FF5580A;Baited Bubbles
+C5A45193;Baited Bubbles
+53945624;Baited Bubbles
+F001327A;Baited Bubbles
+6631350D;Baited Bubbles
+DC603C94;Baited Bubbles
+6711EF40;Bite
+46006370;Deafening Roar
+96C5CB42;Foobar Wail
+5828C098;Awakened Hand
+CE18C72F;Keyboard Crash
+79394CA8;Hinozall Souled Up
+EF094B5F;Gratitude Beam
+66D51098;Mystic Barrier
+A9FCE41A;Power Blink
+55584246;Summon Yo-kai
+C3684531;Emergency Meeting
+4C7BE45F;Employee Beam
+0F6F9F48;Underling Gun Drop
+B4AE6708;Subordinate Slice
+A8DD4B79;Powerpaw
+3EED4C0E;Rattling Gatlings
+84BC4597;Taildriver
+128C4220;Belly Blasters
+B119267E;Belly Blasters
+27292109;Belly Blasters
+89CCC749;Destructabeam
+1FFCC03E;Destructabeam
+A5ADC9A7;Destructabeam
+339DCE50;Destructabeam
+9008AA4E;Souped-up
+0638AD39;Souped-up
+BC69A4A0;Souped-up
+2A59A357;Souped-up
+59096F0B;Superturbocharge!
+E4E2A983;Second Helpings
+491F3D64;Harmful Hoax
+BD00C4A0;Hoaxy-Coaxy...
+4D815E0E;Entrancing Express
+5EB7894E;Entrancing Express
+BA67DBBA;Daydream Dragon
+EC331D5C;Daydream Dragon
+5C1A7D21;Daydream Dragon
+A15355AA;Hoaxy Roast
+7129F52D;Hoaxy Roast
+C1009550;Hoaxy Roast
+D1DCB562;Hoaxy Roast
+432B8E22;HarMEOWny's Hoax
+F6FC0966;HarMEOWny's Hoax
+46D5695B;HarMEOWny's Hoax
+79473A75;Fool's Paradise
+450B2C4D;Earsplitting Elegy
+BC477955;Canticle of Chaos
+F5224C10;Ruinous Rondo
+2558ECB7;Maddening Mambo
+95718C8A;Puppeteer's Polka
+85ADAC38;Returners Requiem
+3584CC05;Dodging Ditty
+3602AD3F;Give In
+88E20E8C;Surgical Swipe
+7F048B38;Soul Absorb
+CF2DEB05;Blood Refill
+8648DEA0;A Change of Heart
+3661BE9D;Maddiman Meddling
+0C0D0A4A;Get Well DOOM!
+34C55F57;Firing Beam
+84EC3F6A;Rampage Beam OK!
+54969F2D;Launching Missile
+E4BFFF10;Launching Missile
+F463DFA2;Launching Missile
+444ABF9F;Destruction Disk
+C323DA23;BLAZING BLAST
+3A6F8F7B;Toxic Transmission
+B02A5B11;WildfAIre
+730ABA5E;GUIDANCE MODE
+F1F9D26E;Scratch!
+41D0B253;Slumbering Scratch!
+91AA1214;Mother's Rage
+21837229;Peculiar Position
+315F529B;Floor Smash!
+061F575A;Shivery Sigh
+B6363727;Languid Lament
+664C97A0;A Force Blaster!
+F35A2C5D;A Force Blaster!
+D665F79D;Delightful Dreams
+A6EA1755;Delightful Dreams
+777D4757;A Force Blaster!
+FF530242;Soporific Slander
+4F7A627F;Str. Talisman
+9F00C238;Def. Talisman
+2F29A205;Speed Talisman
+3FF582B7;Unnamed
+8FDCE28A;Unnamed
+5FA6424D;Spirit Talisman
+7516D628;Sleep Uneasy
+C53FB615;Sleep Uneasy
+C6B9D72F;Alarm Bell
+7690B712;Lullaby
+16C37768;Unnamed
+C754272A;Unnamed
+632210A6;Stick Boomerang
+94C49512;8 Beat Thunder!
+24EDF52F;16 Beat Thunder!
+F4975568;Swirling Storm
+44BE3555;Thunder Ball
+E44B755A;Unnamed
+6D88C08A;Snare Heart
+E7CD1420;Storm Thunderbeat
+BEBC4524;X Smash
+0E952519;EX-pectation of Pain
+495AC090;EX-cruciator
+F973A0AD;EX-ceptional Hate!
+2909002A;EX-pect this to hurt!
+B0169508;Eye of the EXecutor
+606C354F;Eye of the EXecutor
+003FF535;EXceptional Eye
+D0455572;EXceptional Eye
+3A534162;EXplosive Excisions
+6FD02053;Unnamed
+D581294A;Confusing Attack
+43B12EBD;Unnamed
+E0244A23;Unnamed
+76144D54;Unnamed
+766A3C16;Life Orb
+CC3B358F;Spirit Orb
+A1C45488;Unnamed
+1B955D11;Unnamed
+8DA55A66;Unnamed
+2E303E08;Unnamed
+B800398F;Unnamed
+02513016;Unnamed
+94613761;Unnamed
+057C8811;Unnamed
+934C8F86;Unnamed
+76C54826;Unnamed
+E0F54F91;Unnamed
+5AA44608;Unnamed
+CC94417F;Unnamed
+6F012521;Unnamed
+F9312296;Unnamed
+43602B0F;Unnamed
+D5502C78;Unnamed
+444D9328;Unnamed
+D27D949F;Unnamed
+B596654D;Unnamed
+23A662BA;Unnamed
+1C422914;Unnamed
+A613208D;Unnamed
+3023270A;Unnamed
+45FC6F16;Unnamed
+7AC0856B;Unnamed
+C0918C12;Unnamed
+56A18B85;Unnamed
+F534EF1B;Unnamed
+4DAA476A;Unnamed
+F7FB4E13;Unnamed
+61CB4984;Unnamed
+C25E2D1A;Unnamed
+546E2A6D;Unnamed
+EE3F2314;Unnamed
+780F2483;Unnamed
+14140168;Unnamed
+AE450811;Unnamed
+38750F86;Unnamed
+9BE06B18;Unnamed
+0DD06C6F;Unnamed
+B7816516;Unnamed
+21B16281;Unnamed
+237EC369;Unnamed
+992FCA10;Unnamed
+0F1FCD87;Unnamed
+AC8AA919;Unnamed
+A6688C6C;Unnamed
+1C398515;Unnamed
+8A098282;Unnamed
+299CE61C;Unnamed
+BFACE16B;Unnamed
+05FDE812;Unnamed
+91024E6D;Unnamed
+2B534714;Unnamed
+BD634083;Unnamed
+1EF6241D;Unnamed
+88C6236A;Unnamed
+32972A13;Unnamed
+A4A72D84;Unnamed
+FFD6CA6E;Unnamed
+4587C317;Unnamed
+D3B7C480;Unnamed
+7022A01E;Unnamed
+C2919665;Unnamed
+78C09F04;Unnamed
+EEF0988B;Unnamed
+4D65FC15;Unnamed
+DB55FB62;Unnamed
+6104F20B;Unnamed
+F734F58C;Unnamed
+66294A1C;Unnamed
+F0194D6B;Unnamed
+F5FB5464;Unnamed
+4FAA5D05;Unnamed
+D99A5A8A;Unnamed
+7A0F3E14;Unnamed
+28CDFB52;Unnamed
+929CF24B;Unnamed
+04ACF53C;Unnamed
+A73991A2;Unnamed
+31099655;Unnamed
+8B589F4C;Unnamed
+1D68983B;Unnamed
+7173BD50;Unnamed
+CB22B449;Unnamed
+5D12B33E;Unnamed
+FE87D7A0;Unnamed
+68B7D057;Unnamed
+D2E6D94E;Unnamed
+44D6DE39;Unnamed
+46197F51;Unnamed
+FC487648;Unnamed
+6A78713F;Unnamed
+C9ED15A1;Unnamed
+5FDD1256;Unnamed
+E58C1B4F;Unnamed
+73BC1C38;Unnamed
+C30F3054;Unnamed
+795E394D;Unnamed
+EF6E3E3A;Unnamed
+4CFB5AA4;Unnamed
+F465F255;Unnamed
+4E34FB4C;Unnamed
+D804FC3B;Unnamed
+7B9198A5;Unnamed
+EDA19F52;Unnamed
+57F0964B;Unnamed
+C1C0913C;Unnamed
+50DD2EAC;Unnamed
+C6ED295B;Unnamed
+2364EEBB;Unnamed
+B554E94C;Unnamed
+ADDBB457;Unnamed
+178ABD4E;Unnamed
+81BABA39;Unnamed
+222FDEA7;Unnamed
+9AB17656;Unnamed
+20E07F4F;Unnamed
+B6D07838;Unnamed
+15451CA6;Unnamed
+A7F62A5D;Unnamed
+1DA72344;Unnamed
+8B972433;Unnamed
+280240AD;Unnamed
+BE32475A;Unnamed
+04634E43;Unnamed
+909CE85C;Unnamed
+2ACDE145;Unnamed
+BCFDE632;Unnamed
+F1088C41;Unnamed
+4B598558;Unnamed
+DD69822F;Unnamed
+7EFCE6B1;Unnamed
+C6624E40;Unnamed
+7C334759;Unnamed
+EA03402E;Unnamed
+499624B0;Unnamed
+9FDC0842;Unnamed
+258D015B;Unnamed
+B3BD062C;Unnamed
+102862B2;Unnamed
+86186545;Unnamed
+A8B6CA43;Unnamed
+12E7C35A;Unnamed
+84D7C42D;Unnamed
+2742A0B3;Unnamed
+2DA08546;Unnamed
+97F18C5F;Unnamed
+01C18B28;Unnamed
+A254EFB6;Unnamed
+3464E841;Unnamed
+1ACA4747;Unnamed
+A09B4E5E;Unnamed
+36AB4929;Unnamed
+953E2DB7;Unnamed
+030E2A40;Unnamed
+B95F2359;Unnamed
+2F6F242E;Unnamed
+BE729BBE;Unnamed
+43740145;Unnamed
+741EC344;Unnamed
+CE4FCA5D;Unnamed
+587FCD2A;Unnamed
+49599F4F;Unnamed
+F3089656;Unnamed
+65389121;Unnamed
+C6ADF5BF;Unnamed
+509DF248;Unnamed
+04874546;Unnamed
+93B64364;Unnamed
+00058746;Force Blaster
+BA548E5F;Force Blaster GX
+2C648928;Unnamed
+376F4547;Str. Talisman
+6ED10345;Def. Talisman
+59BBC144;Spirit Talisman
+DCAD8E41;Speed Talisman
+B8549448;Unnamed
+8F3E5649;Unnamed
+65623B7E;Unnamed
+EBC74C40;Unnamed
+B2790A42;Purifying Pole
+8513C843;Unnamed
+5208F97F;Mushroom
+E859F026;Mushroom
+7E69F791;Mushroom
+DDFC930F;Mushroom
+4BCC9478;Mushroom
+F19D9D21;Mushroom
+39AB2EBA;Unnamed
+FAF80391;Unnamed
+BBC91888;Unnamed
+2DF91F01;Unnamed
+7C5F5947;Unnamed
+3D6E425E;Unnamed
+679673AD;Unnamed
+A62B8155;Unnamed
+05BEE54B;Unnamed
+CC638E0F;Unnamed
+FFCC206A;Unnamed
+137A925B;Unnamed
+D398AA23;Unnamed
+E4F26822;Unnamed
+FE3D6F15;Unnamed
+A0003222;Unnamed
+59568E34;Unnamed
+EF2D3303;Unnamed
+A0C9FA2D;Unnamed
+03F91D95;Unnamed
+ACD6DA21;Unnamed
+495F1D81;Unnamed
+9CA6AB1D;Unnamed
+6B1BD543;Unnamed
+5EBEB62A;Unnamed
+26F7A284;Unnamed
+2A2ACE5A;Unnamed
+BB37714A;Unnamed
+B7EA1D14;Unnamed
+2D07763D;Unnamed
+D14ADC5A;Unnamed
+477ADB2D;Unnamed
+FD2BD2B4;Unnamed
+5263DA74;Unnamed
+4E29EB0B;Unnamed
+C453DD03;Unnamed
+7E02D49A;Unnamed
+E832D32D;Unnamed
+5FF58636;Unnamed
+4BA7B773;Unnamed
+E5A48FAF;Unnamed
+24B2B584;Unnamed
+B282B213;Unnamed
+08D3BB6A;Unnamed
+9EE3BC1D;Unnamed
+3D76D883;Unnamed
+AB46DF14;Unnamed
+1117D66D;Unnamed
+8727D11A;Unnamed
+570B7593;Unnamed
+B8EC492A;Unnamed
+2EDC4E9D;Unnamed
+3ABD930B;Unnamed
+AC8D948C;Unnamed
+FB149B9F;Unnamed
+CEB1F876;Unnamed
+5881FF01;Unnamed
+E2D0F698;Unnamed
+74E0F12F;Unnamed
+E5FD4E7F;Unnamed
+73CD4908;Unnamed
+1426B85A;Unnamed
+8216BF2D;Unnamed
+3847B6B4;Unnamed
+AE77B143;Unnamed
+0DE2D55D;Unnamed
+7976ADAD;Unnamed
+EF46AA5A;Unnamed
+4CD3CE44;Unnamed
+DAE3C933;Unnamed
+60B2C0AA;Unnamed
+F682C75D;Unnamed
+679F784D;Unnamed
+9281E20C;Unnamed
+04B1E57B;Unnamed
+18E1F956;Unnamed
+8ED1FEA1;Unnamed
+A2B0F04F;Unnamed
+01259451;Unnamed
+2D449A3F;Unnamed
+BB749D48;Unnamed
+40148F48;Unnamed
+D62488BF;Unnamed
+76357D55;Unnamed
+E0057AA2;Unnamed
+CC64744C;Unnamed
+6FF11052;Unnamed
+F9C117A5;Unnamed
+F3233250;Unnamed
+E828FE3F;Unnamed
+1203DCA3;Unnamed
+AA9D7452;Unnamed
+A0B0EA58;Unnamed
+8CD1E436;Unnamed
+1AE1E341;Unnamed
+B974875F;Unnamed
+2F4480A8;Unnamed
+92383156;Unnamed
+040836A1;Unnamed
+77B1F6B6;Unnamed
+CDE0FF2F;Unnamed
+D4249228;Unnamed
+D3092A4F;Unnamed
+45392DB8;Unnamed
+B4E2DB9D;Unnamed
+AD26B69A;Unnamed
+1777BF03;Unnamed
+105A0724;Unnamed
+7A27AA14;Unnamed
+CFE0E5B8;Unnamed
+2A692258;Unnamed
+5646A41A;Unnamed
+C076A36D;Unnamed
+1B656822;Unnamed
+8D556F55;Unnamed
+2EC00B4B;Unnamed
+516B1C05;Unnamed
+00CD5A45;Unnamed
+E5449DA5;Unnamed
+73749A52;Unnamed
+C925934B;Unnamed
