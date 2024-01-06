@@ -73,22 +73,22 @@ def entry_to_csv(entry, header_names, variable_names, show_as_hex, search_text, 
     return csv_row
 
 # Load the JSON file
-with open('skill_config_0.03.34.json', 'r') as json_file:
+with open('chara_ability.json', 'r') as json_file:
     data = json.load(json_file)
     
 # Load the JSON file
-with open('skill_text_en.json', 'r') as json_text_file:
+with open('chara_ability_en.json', 'r') as json_text_file:
     data_text = json.load(json_text_file)    
 
 # Specify the prefix of the entry you're looking for
-prefix_search = "SKILL_CONFIG_INFO_LIST_BEG"
+prefix_search = "CHARA_ABILITY_CONFIG_INFO_LIST_BEG"
 
 # Get children of entries that start with the specified prefix
 config = get_entry(data.get("Entries", []), prefix_search)
 
 # Specify the header names and variable names/indices
-header_names = ['SkillConfigID', 'Name']
-variable_names = ["SkillConfigID", 'NameID']  # Adjust this list according to your needs
+header_names = ['SkillID', 'Name']
+variable_names = ["SkillID", 'NameID']  # Adjust this list according to your needs
 
 # Specify whether to format values as hex
 show_as_hex = [True, True]

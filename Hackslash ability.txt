@@ -1,0 +1,250 @@
+SkillID;Name
+270E3644;Elasticity
+E45D1B2F;Step Up
+726D1C98;Beat Camp
+A56C0016;Dumming Up
+62FA41B9;Defensive Dance
+23CB5AA0;Get a Groove On
+B5FB5D57;Gust o' Gusto
+E098778B;Cruel to be Kaind
+A1A96C92;Dark Field
+6EB5F415;Caring
+F885F362;Tasty Aroma
+2F84EF0C;Optimism Power
+B9B4E87B;Lord of Light
+5155EF5C;Down But Not Out
+C765E8AB;Dragon Force
+7D34E132;Boiling Point
+1064F445;Hang in There
+D337D92E;Fight or Flight
+9206C217;Back from the Brink
+0436C580;Oh My Swirls!
+559083B8;Peak Condition
+14A198A1;Hale and Hardy
+D7F2B58A;Can't Touch This
+96C3AE93;Mood Swing
+59DF3614;Lone Soldier
+CFEF3163;Center Stage
+18EE2D0D;Polarity
+08EBA95E;Snitch
+9EDBAEA9;Green Energy
+248AA730;Survivor
+49DAB247;Hide and Heal
+8A899F2C;Cursed Skin
+1CB9989B;Contrarian
+CBB88415;Slow Starter
+5D888382;Lie-in Wait
+E7D98A1B;Just a Minute
+4D1FDEA3;Me First!
+CF7DE891;Turbocharger
+594DEF26;Wind God's Waltz
+00617016;Surge Protector
+41506B0F;Happy Kappa
+3F816B5F;Sea Wall
+7EB07046;Sword Hunting
+E88077B1;Adrenaline
+BDE35D2D;Sludge Grudge
+FCD24614;Peck-Me-Up
+370BB217;Lay Low
+A13BB560;Bow Out
+1B6ABC09;Going Under
+763AA90E;Hose Be with You
+BA97245A;Hit and Run
+FBA63F43;That All You Got?
+38F51228;Seeing Red
+79C40911;Keen Machine
+BE5248BE;Pedal to the Metal
+FF6353A7;Long Lasting
+7D016595;Hassle
+EB316222;Unfairy Dust
+B21DFD12;Gassy Sphere
+F32CE60B;Diamond Encrusted
+651CE17C;Miraculous Scales
+DF4DE825;Matchless Shell
+8DFDE65B;Glossy Skin
+1BCDE1AC;Gooey Guard
+CCCCFD42;Light Speed
+0F9FD029;Gambler
+99AFD79E;Careless
+4EAECB10;Worldy Whisdom
+89388ABF;Stealthy Strike
+C80991A6;Extreme Critical
+0B5ABC8D;Cloud Cover
+4A6BA794;Vampiric
+85773F13;Scratch My Back
+C446240A;Reincarnate
+5276237D;Dumpling
+D443A059;Scavenger
+9572BB40;Sneaky Snacker
+0342BCB7;Soul Snacker
+B913B52E;Pu Pu Platter
+5621962B;Waterworks
+17108D12;Friendly Fire
+D086CCBD;Second Wind
+91B7D7A4;Really Healy
+52E4FA8F;Grip on You
+C4D4FD08;Darkness Falls
+13D5E196;Rotten Luck
+DCC97911;Guardian Spirit
+9DF86208;Supersucker
+E3296258;Juice Boost
+A2187941;Magic Mist
+34287EB6;Abracatabra!
+614B542A;Flying Start
+207A4F13;You First
+E7EC0EBC;Spin to Win
+A6DD15A5;Washed Out
+658E388E;Web Master
+24BF2397;It's a Trapper!
+EBA3BB10;Snappy Trapper
+AA92A009;Fan the Flames
+DE6E3E53;Splash Damage
+485E39A4;Just Add Water
+9F5F254A;Thunder Fist
+5C0C0821;Quaker Maker
+1D3D1308;Stay Frosty
+8B0D148F;Frost Fang
+DAAB52B7;Tailwind
+9B9A49AE;Fire Watchout
+58C96485;Moist Skin
+19F87F9C;Insulator
+D6E4E71B;Sand Down
+97D5FC02;Stiff Skin
+E904FC52;Blow Off
+A835E74B;Gold Guard
+6B66CA20;Silver Guard
+2A57D109;Bronze Guard
+EDC190B6;Platinum Guard
+ACF08BAF;Rapid Revival
+3AC08C58;Rice-Suscitation
+6FA3A684;Full Bloom
+2E92BD9D;Eterna Life
+E18E251A;Small Game Hunter
+A0BF3E03;Knockout Blow
+03589165;Rice and Dice
+42698A7C;Choco Factory
+813AA757;Sore Thumb
+C00BBC4E;Secrecy
+563BBB39;Now You See Me...
+EC6AB2A0;Free Pass
+079DFD01;Staying Power
+46ACE618;Charge Ahead
+D09CE16F;Oni Up
+85FFCB33;Meat Shield
+13CFCC44;Sun Shield
+C4CED02A;Triple-Header
+52FED75D;Toadally Saved
+0BD248AD;Grit
+9DE24F5A;Endurance
+27B34643;True Grit
+B1834134;Purrsistence
+121625AA;Tongue Twister
+4AE353B4;Bladed Body
+DCD35443;Mirror Body
+66825D5A;Killer Comeback
+34325364;The X-Factor
+7503487D;Unnamed
+B6506556;Keep on Runnin'
+F7617E4F;Quick Reflexes
+30F73F;Deeply Enarmored
+A6C73877;Slippery Customer
+71C62419;No, Sir!
+B2950932;Prickly Customer
+F3A4122B;Silver Tongue
+3CB88AAC;Greed
+6D8C1566;Sharing is Caring
+2CBD0E7F;Popularity
+EFEE2354;Penetrate
+AEDF384D;He Just Nose
+69497902;Me Too!
+2878621B;Wriggle Out
+EB2B4F30;Xtreme!
+AA1A5429;Demon Blood
+6506CCAE;Epic Performer
+2437D7B7;Sniper
+5AE6D767;Sheer Focus
+1BD7CC7E;Moisten
+D884E155;Crank-a-Crank-a-Kai
+99B5FA4C;Average
+5E23BB03;Red Rush
+1F12A01A;Handmade Bombs
+DC418D31;Fisher King
+9D709628;The Bison
+8426225D;Stick 'Em Up
+526C0EAF;Shooting Star
+135D15B6;In Earnest
+C83C1501;Shout Out
+5E0C1276;Feel the Beat
+335C0781;Kupower
+0FAA544E;Slippy-Slidey
+999A5339;Best Foot Forward
+42D4FA0B;Choco Regen
+03E5E122;Keeping Fresh
+DB2FD954;Places to Be
+EFF40E86;Enma Blade
+497DEF92;Hairnet
+A19CE835;Better Batter
+23FEDE07;Insecure
+DC5BA023;Regal Radiance
+E8272A24;High Steaks
+7E172D93;Hard-Boiled
+C011919C;Good Hydrations
+81208A85;Fryin' and Dandy
+3B71831C;Forged in Flame
+01E5FB75;Antifreeze
+368F3974;Divine Retribution
+8CDE302D;Final Judgment
+E7F6236E;Juggernaut
+BE48656C;Dodge
+4EB4E622;Splurge
+E89A5A63;Gold Power
+A9AB417A;Healthy Balance
+6AF86C51;Mess Up
+2BC97748;Party On!
+EC5F3607;Overdrive
+AD6E2D1E;Spiritual Healing
+6E3D0035;Greasy Goodness
+2F0C1B2C;Refresh
+E01083AB;Pair of Heals
+A12198B2;Dynamo
+B1241C61;Godspeed
+F0150778;Multitalented
+33462A53;Eye on the Prize
+7277314A;Punching Up
+B5E17005;Know-it-all
+F4D06B1C;Treasure Map
+37834637;Fancy That!
+76B25D2E;Turn Back Time
+B9AEC5A9;Highly Capeable
+2F9EC25E;Baggy Jeans
+6EAFD947;On the Lookout
+864EDE60;Nav.
+107ED917;Malware
+C77FC579;Invader Mode
+042CE852;Cuts Both Ways
+451DF34B;Join Me
+828BB204;Zero Gravity
+C3BAA91D;Wipe the Floor
+00E98436;This is My Jam
+41D89F2F;I've Got Your Back
+8EC407A8;Blaze Of Glory
+CFF51CB1;Infinite Undoing
+BB09826B;Umbral Aura
+FA389972;Block 'n' Roll
+396BB459;Ocean's Bounty
+785AAF40;Mountain's Harvest
+BFCCEE0F;Moon's Gift
+FEFDF516;Hinix Rising
+3DAED83D;Striking Gold
+6A264C52;Impact
+D077454B;Magic Bullet
+4647423C;Fire Wall
+E5D226A2;Gold
+73E22155;Gold Coins
+C9B3284C;Blade Wall
+5F832F3B;Slash
+CE9E90AB;Snowball
+63757C14;Pop Up Blocker
+F5457B83;Trap Blocker
+4F14721A;Mobile Armor
+D924756D;Attack Blocker
